@@ -1,4 +1,4 @@
-# Expense Tracker - Εφαρμογή Windows Forms
+# Expenses Tracker - Εφαρμογή Windows Forms
 
 ## Επισκόπηση
 
